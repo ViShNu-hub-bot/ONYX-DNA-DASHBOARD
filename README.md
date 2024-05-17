@@ -2,6 +2,9 @@
 
 Welcome to the ONYX DNA Challenge Dashboard repository! This repository hosts the Power BI file for our DNA Challenge Dashboard, providing valuable insights into our performance metrics.
 
+## Preview
+![Dashboard Preview](20%20.jpg)
+
 ## Overview
 
 The DNA Challenge Dashboard is designed to offer comprehensive insights across various dimensions of our DNA Challenge metrics. With interactive visualizations and detailed analysis, this dashboard empowers you to make informed decisions based on real-time data.
