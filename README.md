@@ -5,8 +5,8 @@ Welcome to the ONYX DNA Challenge Dashboard repository! This repository hosts th
 ## Preview
 ![Dashboard Preview](20.jpg)
 ![Dashboard Preview](21.jpg)
-![Dashboard Preview](22.jpg)
 ![Dashboard Preview](23.jpg)
+![Dashboard Preview](24.jpg)
 
 ## Overview
 
